@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Cocientes Notables y Factorización",
+  "description": "Calculadora explicativa y pedagógica paso a paso de cocientes notables y factorización para estudiantes de matemáticas básicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
